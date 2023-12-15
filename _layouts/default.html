@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    <meta name="title"  content="{% if page.title %}{{ page.title }}{% else %}{{ page.title }}{% endif %}">
+    <meta name="description" content="{% if content %}{{ content }}{% else %}{{ content }}{% endif %}">
+    <link rel="shortcut icon" type="image/png" href="../css/favicon.png">
     <link type="text/css" rel="stylesheet" href="../css/style.css" id="theme" />
 </head>
 <body>
