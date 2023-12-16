@@ -86,5 +86,6 @@ Alternates has its own label! the `{LABEL}` is for the main website! `([Website]
 * Kota Sangatta ([PA](https://sinergitas.pta-samarinda.go.id/home/cctv-pa-sangatta))
 * Kab. Penajam ([Official Site](http://www.penajamkab.go.id)) ([PA](https://sinergitas.pta-samarinda.go.id/home/cctv-pa-penajam))
 * Kec. Tanjung Redeb ([PA](https://sinergitas.pta-samarinda.go.id/home/cctv-pa-tanjung-redeb))
+* [Kota Depok](http://cctv.depok.go.id:8083) ([Official Site](https://depok.go.id))
 
-<footer>Special Thanks to: realzeromus, andreas_ding, kompormeleduq</footer>
+<footer>Special Thanks to: realzeromus, andreas_ding, kompormeleduq, ryukora</footer>
