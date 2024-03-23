@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to get your favorite Geometry Dash modding sdk; Geode, on Linux!
+title: How to get your favorite™ Geometry Dash modding sdk; Geode, on Linux!
 ---
 
-# How to get your favorite Geometry Dash modding sdk; Geode, on Linux!
+# How to get your favorite™ Geometry Dash modding sdk; Geode, on Linux!
 Geode SDK is yadayada you know the gist, heres the actual guide:
 <br /><br />
 
