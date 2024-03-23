@@ -3,6 +3,6 @@ plugins:
 title: Notes by MeFinity
 description: Stuff i like to document and write about, thats it really
 author: MeFinity
-url: 127.0.0.1:4000
+url: n.mefinity.eu.org
 feed:
   path: /n/feed.xml
