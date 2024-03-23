@@ -1,8 +1,3 @@
-plugins:
-  - jekyll-feed
 title: Notes by MeFinity
 description: Stuff i like to document and write about, thats it really
 author: MeFinity
-url: n.mefinity.eu.org
-feed:
-  path: /n/feed.xml
